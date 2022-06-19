@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="90" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img align="center" alt="Rafa-Python" height="30" width="90" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
     <img align="center" alt="Rafa-Python" height="30" width="110" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/1200x/1e/bc/93/1ebc93e594dc8528ced276bff84ae555.jpg">
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/736x/19/45/f7/1945f782f953e0ee0d3bbfad41c419d5.jpg">
 
   
 </div>
