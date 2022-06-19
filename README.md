@@ -31,7 +31,7 @@
     <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-    <img align="right" width="1200" height="400" src="https://g.redditmedia.com/JzkswAdkC_uNUj7AySII3I8gjE6U3NlRRTUMPKqSK38.gif">
+    <img align="right" width="1200" height="350" src="https://g.redditmedia.com/JzkswAdkC_uNUj7AySII3I8gjE6U3NlRRTUMPKqSK38.gif">
 </div>
   
   
