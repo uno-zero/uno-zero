@@ -17,8 +17,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="90" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
     <img align="center" alt="Rafa-Python" height="30" width="110" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/uno-zero/uno-zero.github.io/blob/master/assets/images/Neo1.jpg">
-  
+
 </div>
   
 </div>
