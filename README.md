@@ -16,7 +16,21 @@
   <img align="center" alt="Rafa-Python" height="30" width="90" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img align="center" alt="Rafa-Python" height="30" width="90" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
     <img align="center" alt="Rafa-Python" height="30" width="110" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
- 
+
+
+## ✅ Languages and Tools:
+<a href="https://www.cprogramming.com/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+<a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
+<a href="https://web.dev/learn/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+<a href="https://www.w3schools.com/js/" target="blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a href="https://reactjs.org/" target="blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+<a href="https://www.cloudskillsboost.google/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a>
+<a href="https://www.tutorialspoint.com/unix/shell_scripting.htm" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/ssh.png"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://user-images.githubusercontent.com/87390353/167304498-6a13571b-f816-473b-ac35-d520d7e656fa.png"/> </a>
+
 
 </div>
   
