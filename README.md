@@ -34,8 +34,8 @@
   
   <a href=#><img src="contributions.svg](https://github.com/uno-zero/insolitum/blob/main/contributions.svg"></a>
 
+<p align="center"> 
 <a href=#><img src="https://github.com/uno-zero/insolitum/blob/main/contributions.svg"></a>
-
 <p align="center"> 
 
 </p>
