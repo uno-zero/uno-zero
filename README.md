@@ -35,7 +35,7 @@
   <a href=#><img src="contributions.svg](https://github.com/uno-zero/insolitum/blob/main/contributions.svg"></a>
 
 <p align="center"> 
-<a href=#><img src="https://github.com/uno-zero/insolitum/blob/main/contributions.svg"></a>
+<a href=#><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"></a>
 <p align="center"> 
 
 </p>
